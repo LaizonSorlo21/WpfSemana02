@@ -1,0 +1,60 @@
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.exe
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.deps.json
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.runtimeconfig.json
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.dll
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.pdb
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ConductoresWindow.baml
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\IngresoWindow.baml
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MenuWindow.baml
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ReporteIngresosWindow.baml
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ConductoresWindow.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\IngresoWindow.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MenuWindow.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ReporteIngresosWindow.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02_MarkupCompile.cache
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.g.resources
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.dll
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\refint\WpfSemana02.dll
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.pdb
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ref\WpfSemana02.dll
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\CatalogoWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ConductoresWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\IngresoWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MenuWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ReporteIngresosWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\SalidaWindow.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\CatalogoWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ConductoresWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\IngresoWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\MenuWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ReporteIngresosWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\SalidaWindow.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02_MarkupCompile.cache
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02_MarkupCompile.lref
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.dll
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\refint\WpfSemana02.dll
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.pdb
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.exe
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.deps.json
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.runtimeconfig.json
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.dll
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\bin\Debug\net10.0-windows\WpfSemana02.pdb
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\App.baml
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.g.resources
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.AssemblyInfoInputs.cache
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.AssemblyInfo.cs
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\WpfSemana02.genruntimeconfig.cache
+C:\Users\Luis Alberto Flores\Desktop\Lab02\WpfSemana02\WpfSemana02\obj\Debug\net10.0-windows\ref\WpfSemana02.dll

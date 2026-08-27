@@ -1,0 +1,9 @@
+<Window x:Class="WpfSemana02.MenuWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Control de transporte" Height="500" Width="850" WindowStartupLocation="CenterScreen" Background="#F1F5F9">
+ <DockPanel><Border DockPanel.Dock="Top" Background="#0F172A" Padding="26,20"><StackPanel><TextBlock Text="CONTROL DE TRANSPORTE" FontSize="25" FontWeight="Bold" Foreground="White"/><TextBlock Text="Gestión integral de ingresos, salidas y carga" Foreground="#CBD5E1" Margin="0,4,0,0"/></StackPanel></Border>
+  <Grid Margin="25"><Grid.ColumnDefinitions><ColumnDefinition/><ColumnDefinition/><ColumnDefinition/></Grid.ColumnDefinitions>
+   <GroupBox Header="Operaciones" Margin="8" Padding="12"><StackPanel><Button Content="Registrar ingreso" Height="44" Margin="0,6" Click="Ingresos_Click"/><Button Content="Registrar salida" Height="44" Margin="0,6" Click="Salida_Click"/></StackPanel></GroupBox>
+   <GroupBox Grid.Column="1" Header="Mantenimientos" Margin="8" Padding="12"><StackPanel><Button Content="Conductores" Height="40" Margin="0,4" Click="Conductores_Click"/><Button Content="Transportistas" Height="40" Margin="0,4" Tag="Transportistas" Click="Catalogo_Click"/><Button Content="Camiones" Height="40" Margin="0,4" Tag="Camiones" Click="Catalogo_Click"/><Button Content="Productos" Height="40" Margin="0,4" Tag="Productos" Click="Catalogo_Click"/></StackPanel></GroupBox>
+   <GroupBox Grid.Column="2" Header="Consultas y reportes" Margin="8" Padding="12"><StackPanel><Button Content="Cargas" Height="44" Margin="0,6" Click="Reporte_Click"/><Button Content="Ingresos" Height="44" Margin="0,6" Click="Reporte_Click"/><Button Content="Salidas" Height="44" Margin="0,6" Click="Reporte_Click"/></StackPanel></GroupBox>
+  </Grid>
+ </DockPanel>
+</Window>

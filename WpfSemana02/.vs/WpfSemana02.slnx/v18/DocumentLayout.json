@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\ingresowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\ingresowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\ingresowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\ingresowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\wpfsemana02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\wpfsemana02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\reporteingresoswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\reporteingresoswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\conductoreswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\conductoreswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\reporteingresoswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\reporteingresoswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\menuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\menuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|c:\\users\\alumno\\desktop\\lab02\\wpfsemana02\\wpfsemana02\\conductoreswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FDF752-9903-4152-A30F-CF8239E2401E}|WpfSemana02\\WpfSemana02.csproj|solutionrelative:wpfsemana02\\conductoreswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfSemana02",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\WpfSemana02.csproj",
+              "RelativeDocumentMoniker": "WpfSemana02\\WpfSemana02.csproj",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\WpfSemana02.csproj",
+              "RelativeToolTip": "WpfSemana02\\WpfSemana02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-26T21:50:43.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\Models.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\Models.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\Models.cs",
+              "RelativeToolTip": "WpfSemana02\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:40:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MainWindow.xaml",
+              "RelativeToolTip": "WpfSemana02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:36:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReporteIngresosWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ReporteIngresosWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\ReporteIngresosWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ReporteIngresosWindow.xaml",
+              "RelativeToolTip": "WpfSemana02\\ReporteIngresosWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:39:40.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MenuWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\MenuWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MenuWindow.xaml",
+              "RelativeToolTip": "WpfSemana02\\MenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:39:01.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IngresoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\IngresoWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\IngresoWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\IngresoWindow.xaml",
+              "RelativeToolTip": "WpfSemana02\\IngresoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:39:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfSemana02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:36:10.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IngresoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\IngresoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\IngresoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\IngresoWindow.xaml.cs",
+              "RelativeToolTip": "WpfSemana02\\IngresoWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:43:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReporteIngresosWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ReporteIngresosWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\ReporteIngresosWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ReporteIngresosWindow.xaml.cs",
+              "RelativeToolTip": "WpfSemana02\\ReporteIngresosWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:44:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\App.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\App.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\App.xaml",
+              "RelativeToolTip": "WpfSemana02\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:44:47.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\MenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\MenuWindow.xaml.cs",
+              "RelativeToolTip": "WpfSemana02\\MenuWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:43:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConductoresWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ConductoresWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSemana02\\ConductoresWindow.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ConductoresWindow.xaml",
+              "RelativeToolTip": "WpfSemana02\\ConductoresWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-26T21:39:14.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConductoresWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ConductoresWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSemana02\\ConductoresWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Lab02\\WpfSemana02\\WpfSemana02\\ConductoresWindow.xaml.cs",
+              "RelativeToolTip": "WpfSemana02\\ConductoresWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T21:42:10.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

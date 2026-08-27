@@ -1,0 +1,13 @@
+﻿<Application x:Class="WpfSemana02.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfSemana02"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="PrimaryBrush" Color="#1D4ED8"/>
+        <Style TargetType="Button"><Setter Property="Padding" Value="14,8"/><Setter Property="Cursor" Value="Hand"/><Setter Property="Background" Value="{StaticResource PrimaryBrush}"/><Setter Property="Foreground" Value="White"/><Setter Property="BorderThickness" Value="0"/><Setter Property="FontWeight" Value="SemiBold"/></Style>
+        <Style TargetType="TextBox"><Setter Property="Padding" Value="8,5"/><Setter Property="BorderBrush" Value="#CBD5E1"/></Style>
+        <Style TargetType="ComboBox"><Setter Property="Padding" Value="7,4"/></Style>
+        <Style TargetType="DataGrid"><Setter Property="GridLinesVisibility" Value="Horizontal"/><Setter Property="AlternatingRowBackground" Value="#F8FAFC"/><Setter Property="RowHeight" Value="34"/></Style>
+    </Application.Resources>
+</Application>
